@@ -1,0 +1,22 @@
+main {
+    border: 2px solid black;
+    width: 50%;
+    color: 'black';
+    margin: 0 auto;
+    text-align: center;
+  }
+
+table {
+    margin: 0 auto;
+}
+
+  th, td {
+    padding: 8px;
+}
+
+footer {
+    text-align: center;
+    color: white;
+    background-color: coral;
+    
+}
